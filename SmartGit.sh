@@ -4,5 +4,5 @@ echo "------------In Progress ----------"
 git commit -m"Repo Updated"
 echo "Git commited successfully"
 echo "Pushing Repo"
-echo "Provide Credentials for Gitthub Glitch3086"
+echo "Provide Credentials for Gitthub Maerael"
 git push

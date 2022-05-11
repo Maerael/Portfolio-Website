@@ -578,7 +578,7 @@ input, select, textarea {
 		left: 0;
 		line-height: 8em;
 		position: absolute;
-		text-align: center;
+		text-align: start;
 		width: 100%;
 	}
 	#footer nav {
